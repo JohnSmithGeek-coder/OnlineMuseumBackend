@@ -1,0 +1,15 @@
+glaze,Stoneware, : 1031
+glaze, : 46
+Stoneware, : 58
+glaze,Porcelain, : 727
+Porcelain, : 6
+glaze,Earthenware, : 241
+Jade, : 2238
+glaze,Unglazed, : 186
+Earthenware, : 329
+Glazed, : 40
+Ceramic, : 71
+glaze,Ceramic, : 5
+glaze,Glazed, : 3
+Ink and silk thread on canvas : 2
+painting : 1

@@ -1,0 +1,16 @@
+//文物材质分类
+glaze,Stoneware,
+glaze,
+Stoneware,
+glaze,Porcelain,
+Porcelain,
+glaze,Earthenware,
+Jade,
+glaze,Unglazed,
+Earthenware,
+Glazed,
+Ceramic,
+glaze,Ceramic,
+glaze,Glazed,
+Ink and silk thread on canvas
+painting

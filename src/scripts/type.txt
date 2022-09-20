@@ -1,0 +1,137 @@
+Ceramic, : 2979
+Painting, : 1666
+Calligraphy, : 366
+Weapon and Armament,Metalwork, : 136
+Rubbing, : 457
+Sculpture, : 507
+Sculpture,Ceramic, : 436
+Metalwork, : 1666
+Jade, : 1078
+Rubbing,Calligraphy, : 23
+Jewelry and Ornament,Metalword, : 725
+Jewelry and Ornament, : 294
+Sculpture,Metalwork , : 380
+Jewelry and Ornament,Jade, : 788
+Weapon and Armament,Jade, : 34
+Tool and Equipment,Metalwork, : 267
+Tool and Equipment,Jade, : 48
+Tool and Equipment, : 310
+Weapon and Armament, : 34
+Sculpture,Jade, : 105
+Tool and Equipment,Ceramic, : 27
+Jewelry and Ornament,Ceramic, : 27
+Painting,Callipraphy, : 1
+Painting,Calligraphy, : 1
+textiles,thangka : 1
+furniture : 1
+paintings : 9
+sculpture : 19
+textiles : 3
+manuscripts : 1
+ritual objects : 7
+thangka,textiles : 1
+paintings,scroll painting : 3
+prints and drawings : 1
+photograph : 5
+sculpture, Mixed media : 1
+painting, Casta : 1
+band, sleeve : 2
+figurine : 3
+pocket, gourd : 2
+plaque : 2
+stela : 1
+figure : 11
+headdress, wedding : 1
+badge, insignia : 4
+vase : 13
+coat : 2
+tea bowl : 2
+saucer : 1
+box, incense : 1
+costume, opera, hat, opera : 1
+dish : 7
+bottle, pilgrim : 1
+robe : 4
+teapot : 3
+incense burner : 1
+pocket, box, sliding : 1
+case, fan : 1
+pockets, uncut : 1
+bowl : 7
+pair, bowl : 1
+screen : 2
+pair, cup : 1
+disk : 1
+hanging, wall, cover : 1
+hanging, opera : 2
+set, picnic : 1
+pair, saucer : 1
+box : 2
+table : 1
+vase, stand : 1
+painting : 26
+plate : 2
+punch bowl : 1
+vessel : 1
+mug : 1
+dish, child's feeding : 2
+flatware set : 1
+single-channel video : 2
+Denver Art Museum : 3
+drawing : 12
+animation, single-channel video : 1
+single-channel video, animation : 1
+mancerina : 1
+barber's bowl : 1
+hanging scroll : 1
+neon, sculpture : 1
+watercolor : 2
+trunk : 1
+map : 1
+bottle : 1
+mixed media installation : 1
+flask : 1
+ewer : 1
+painting, screen : 1
+sculpture, installation : 1
+statue : 1
+bed cover, hanging : 1
+tray, incense : 1
+amphora (storage vessel) : 1
+jar : 2
+axe (tool) : 1
+belt ornament : 1
+sculpture (visual work) : 18
+bowl (vessel) : 6
+Buddha : 2
+stele : 1
+sprinkler flask : 1
+ge (ceremonial knife) : 1
+unidentified type : 4
+cosmetic box : 1
+ding (ritual vessel) : 4
+dagger (weapon) : 1
+funerary sculpture : 5
+dinner plate : 1
+roofing tile : 2
+hand mirror : 1
+pillar : 1
+funerary vessel : 3
+hair ornament : 1
+belt buckle : 2
+lithograph : 1
+mirror : 1
+ceremonial axe : 1
+bi (ceremonial disc) : 1
+cong (ceremonial vessel) : 3
+gu (ritual vessel) : 1
+ceremonial vessel : 6
+scholar's rock : 1
+dish (vessel for food)1 : 1
+tea caddy (container) : 1
+door : 1
+chafing dish : 1
+tsuba : 1
+tureen : 1
+
+total : 12645

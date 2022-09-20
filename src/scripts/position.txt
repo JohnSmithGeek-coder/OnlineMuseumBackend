@@ -1,0 +1,76 @@
+Jiangsu : 50  //江苏
+Jiangxi : 492 //江西
+Anhui : 54    //安徽
+Hebei : 111   //湖北
+Shanxi : 26   //山西
+Zhejiang : 323 //浙江
+Shaanxi : 78  //陕西
+Henan : 467   //河南
+Fujian : 197  //福建
+Guangdong : 96 //广东
+Gansu : 15     //甘肃
+Yunnan : 3     //云南
+Shandong : 11  //山东
+Hunan : 57     //湖南
+Hubei : 9      //湖北
+Sichuan : 75   //四川
+Xinjiang : 16  //新疆
+Szechuan : 2   //四川
+Guangxi : 3    //广西
+Kashgar : 1    //
+Jinagxi : 1   //
+Qinghai : 1   //青海
+Jiangxu : 3   //
+Jiangix : 1    //
+Shaanxi-Shanxi : 2  //
+Liaoning : 1   //辽宁
+Chilin : 1       //
+Ningxia : 1    //宁夏
+Du Jinsheng Silk Factory, Maojiabu, Hangzhou, Zhejiang Province, China : 1
+Tibet : 7
+Tibet or China : 4
+Chentsa, Amdo region, Northeastern Tibet (Jianzha, Qinghai Province, China) : 73
+China : 252     //中国
+Sculpture: China; Throne: Central Tibet : 1
+Rebgong county, Qinghai Province, China : 1
+Inner Mongolia : 2
+Kham Province, Eastern Tibet : 1
+Central Tibet : 1
+Cifu Temple (慈福寺), Wutaishan, China : 1
+China or Inner Mongolia : 1
+China or Tibet : 1
+Mexico : 2
+China, north : 2
+China, Mongolia : 1
+United States : 7
+Austria : 1
+Germany : 3
+China, United States : 1
+Beijing, China : 1
+Japan : 12
+Korea : 8
+Thailand : 2
+Iran : 2
+England : 3
+North China : 26
+China, Jiangxi Province : 40
+China, reportedly found in Shandong Province : 1
+Vietnam, possibly Champa : 1
+China, Zhejiang Province : 4
+Karnataka or Tamil Nadu, India : 1
+North China, reportedly found in Henan Province : 1
+Tibet, Mongolia or China : 1
+China, Shaanxi Province : 6
+China, Gansu or Qinghai Province : 1
+China, Fujian Province : 1
+Jiangxi Province, China : 2
+Western China : 1
+China, Shanxi or Henan Province : 1
+China, Hebei Province : 3
+China, Henan Province : 2
+Japan, Saga Prefecture : 3
+Vietnam : 2
+Porcelain with overglaze yellow enamel (Jingdezhen ware) : 1
+Indonesia, Dongson culture : 1
+
+total 2587
